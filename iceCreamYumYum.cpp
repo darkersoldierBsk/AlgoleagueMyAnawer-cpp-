@@ -8,7 +8,7 @@ INPUT FORMAT
 The first line contains one integer, N
 The next line contains N integers,  A(i) — the amount of ice cream of type i.
 
-OUTPUT FORMAT
+OUTPUT FORMAT 
 Print a single integer — the maximum amount of ice cream Omar can eat.
 
 Constraints
