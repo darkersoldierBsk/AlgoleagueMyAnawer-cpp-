@@ -5,7 +5,7 @@ In other words, a round never ends in a draw.
 To win the game, you need to win more rounds than your opponent.
 
 Unfortunately, they only remember the result of the first K rounds. 
-Also, both of them claim to have won the game.
+Also, both of them claim to have won the game. 
 Therefore, you need to determine if anyone has definitely won the game or not by considering the first K rounds.
 
 INPUT FORMAT
